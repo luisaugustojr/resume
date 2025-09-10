@@ -1,6 +1,6 @@
 # LUIS AUGUSTO LIMA OLIVEIRA JUNIOR
 
-![alt text](../luis_oliveira.jpeg)
+![alt text](https://github.com/luisaugustojr/resume/raw/37320e052266b7bcbe933e6789048d94e1e31c15/luis_oliveira.jpeg)
 
 ## EDUCATION
 Master's degree in Environmental Sciences [Federal University of Pará State](https://ufpa.br)
@@ -8,3 +8,6 @@ Master's degree in Environmental Sciences [Federal University of Pará State](ht
 Specialization course in Statistics [Federal University of Pará State](https://ufpa.br)
 
 Bachelor's degree in Environmental Engineering [State University of Pará](https://www.uepa.br/)
+
+## RESEARCH INTERESTS
+Remote Sensing, Forest Conservation, Deforestation, Secondary Forest Growth, Forest Degradation, Carbon Sequestration and Emissions, Land Use and Land Cover Mapping, Climate Change.
