@@ -1,6 +1,6 @@
 # LUIS AUGUSTO LIMA OLIVEIRA JUNIOR
 
-![alt text](../luis_oliveira.jpeg)
+![alt text](https://github.com/luisaugustojr/resume/raw/37320e052266b7bcbe933e6789048d94e1e31c15/luis_oliveira.jpeg)
 
 ## EDUCATION
 Master's degree in Environmental Sciences [Federal University of Pará State](https://ufpa.br)
